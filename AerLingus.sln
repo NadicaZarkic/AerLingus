@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AerLingus", "AerLingus\AerLingus.csproj", "{77303496-F12A-49CC-8ADF-BCB55CED9AC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AerLingus.Tests", "AerLingus.Tests\AerLingus.Tests.csproj", "{84E2EA59-39D8-4B3E-9D3A-080DBB43A83D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77303496-F12A-49CC-8ADF-BCB55CED9AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77303496-F12A-49CC-8ADF-BCB55CED9AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77303496-F12A-49CC-8ADF-BCB55CED9AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77303496-F12A-49CC-8ADF-BCB55CED9AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84E2EA59-39D8-4B3E-9D3A-080DBB43A83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E2EA59-39D8-4B3E-9D3A-080DBB43A83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E2EA59-39D8-4B3E-9D3A-080DBB43A83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E2EA59-39D8-4B3E-9D3A-080DBB43A83D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D75ABA5-914F-4575-B784-DCE793571CAE}
+	EndGlobalSection
+EndGlobal
